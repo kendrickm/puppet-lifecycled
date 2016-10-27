@@ -1,0 +1,17 @@
+{
+  "name": "kendrickm-lifecycled",
+  "version": "0.1",
+  "author": "kendrickm",
+  "license": "Apache-2.0",
+  "summary": "Manage lifecycled configuration via Puppet",
+  "source": "https://github.com/kedrickm/puppet-lifecycled",
+  "project_page": "https://github.com/kendrickm/puppet-lifecycled",
+  "issues_url": "https://github.com/kendrickm/puppet-lifecycled/issues",
+  "tags": ["lifecycled"],
+  "operatingsystem_support": [
+    {
+    "operatingsystem":"RedHat",
+    "operatingsystemrelease":[ "5.0", "6.0" ]
+    }
+  ]
+}
