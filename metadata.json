@@ -1,6 +1,6 @@
 {
   "name": "kendrickm-lifecycled",
-  "version": "0.1",
+  "version": "0.1.0",
   "author": "kendrickm",
   "license": "Apache-2.0",
   "summary": "Manage lifecycled configuration via Puppet",
